@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "632014877937",
+    "project_id": "rideon-app-4f25a",
+    "storage_bucket": "rideon-app-4f25a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632014877937:android:502b9c6306468b2fe2a550",
+        "android_client_info": {
+          "package_name": "com.webwise.ride_on"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuWEMFz0jhHVgFW8Vg_gBEqy830iKmX2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
